@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<!--File Created By SMS Backup & Restore v10.05.301 on 16/12/2018 20:55:46-->
+<smses count="1340" backup_set="ee8aebe2-eaf0-4485-9960-f740883ca3f1" backup_date="1544990141577">
+ 
+  <sms address="+48884848088" body="Nie laczy mnie"  readable_date="12 lip 2018 18:02:54" contact_name="Ola" />
+    <sms protocol="0" address="+48884848088" date="1531476100162" type="1" subject="null" body="Przyszła kryska na matyska. Nawet się nie pochwaliłeś nowym tel" toa="null" sc_toa="null" service_center="+48790998250" read="1" status="-1" locked="0" date_sent="1531476099000" readable_date="13 lip 2018 12:01:40" contact_name="Ola" />
+    <sms protocol="0" address="+48884848088" date="1531476349644" type="2" subject="null" body="Nawet nie pokazalem ci mat w Leroy. Malo czasu ... " toa="null" sc_toa="null" service_center="null" read="1" status="-1" locked="0" date_sent="0" readable_date="13 lip 2018 12:05:49" contact_name="Ola" />
+    <sms protocol="0" address="+48884848088" date="1531478168595" type="1" subject="null" body="Dramat z tym czasem" toa="null" sc_toa="null" service_center="+48790998250" read="1" status="-1" locked="0" date_sent="1531478167000" readable_date="13 lip 2018 12:36:08" contact_name="Ola" />
+    <sms protocol="0" address="+48884848088" date="1531478192633" type="1" subject="null" body="A Ty w pon jedziesz juz" toa="null" sc_toa="null" service_center="+48790998250" read="1" status="-1" locked="0" date_sent="1531478192000" readable_date="13 lip 2018 12:36:32" contact_name="Ola" />
+
+</smses>
